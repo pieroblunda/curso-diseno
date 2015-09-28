@@ -1,0 +1,1 @@
+>Secciones de una web: header, aside, body, footer, menu.

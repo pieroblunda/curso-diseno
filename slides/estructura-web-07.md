@@ -1,0 +1,1 @@
+>El paradigma cliente servidor.

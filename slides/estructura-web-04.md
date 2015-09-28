@@ -1,0 +1,1 @@
+>Los controles de la web: input, textarea, el scrollbar, radio, checks.
