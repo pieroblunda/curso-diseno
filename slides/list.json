@@ -1,6 +1,25 @@
 [
-    "index.md",
-    "presentacion-personal.md",
+  
+    {
+        "filename": "sinaptica.html",
+        "attr": {
+            "data-background": "https://raw.githubusercontent.com/sinaptica/curso-git/pb/adding-slide/reveal-slides/resources/img/sinaptica.jpg"
+        }
+    },
+    [
+    "presentacion-personal.md"
+    ],
+    [
+    "introduccion-00.md",
+    "introduccion-01.md",
+    "introduccion-02.md",
+    "introduccion-03.md",
+    "introduccion-04.md",
+    "introduccion-05.md",
+    "introduccion-06.md",
+    "introduccion-07.md"
+    ],
+    [
     "diferencia-web-revista-00.md",
     "diferencia-web-revista-01.md",
     "diferencia-web-revista-02.md",
@@ -18,15 +37,9 @@
     "diferencia-web-revista-14.md",
     "diferencia-web-revista-15.md",
     "diferencia-web-revista-16.md",
-    "diferencia-web-revista-17.md",
-    "introduccion-00.md",
-    "introduccion-01.md",
-    "introduccion-02.md",
-    "introduccion-03.md",
-    "introduccion-04.md",
-    "introduccion-05.md",
-    "introduccion-06.md",
-    "introduccion-07.md",
+    "diferencia-web-revista-17.md"
+    ],
+    [
     "estructura-web-00.md",
     "estructura-web-01.md",
     "estructura-web-02.md",
@@ -34,15 +47,26 @@
     "estructura-web-04.md",
     "estructura-web-05.md",
     "estructura-web-06.md",
-    "estructura-web-07.md",
-    "maquetacion-web-00.md",
-    "modelo-trabajo-00.md",
-    "ejemplo-diseno-web-00.md",
-    "insercio-laboral-00.md",
+    "estructura-web-07.md"
+    ],
+    [
+    "maquetacion-web-00.md"
+    ],
+    [
+    "modelo-trabajo-00.md"
+    ],
+    [
+    "ejemplo-diseno-web-00.md"
+    ],
+    [
+    "insercio-laboral-00.md"
+    ],
+    [
     "concepto-estilo-00.md",
     "concepto-estilo-01.md",
     "concepto-estilo-02.md",
     "concepto-estilo-03.md",
     "concepto-estilo-04.md",
     "concepto-estilo-05.md"
+    ]
 ]
