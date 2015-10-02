@@ -1,5 +1,9 @@
 [
-  
+    {
+      "attr": {
+        "data-background": "https://raw.githubusercontent.com/pieroblunda/curso-diseno/cls/slide/img/introduccion-00.jpg"
+      }
+    },
     {
         "filename": "sinaptica.html",
         "attr": {
