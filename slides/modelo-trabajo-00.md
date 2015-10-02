@@ -1,3 +1,5 @@
 ##  Modelo de trabajo: los roles
 
-Mientras que los diseñadores piensan que el diseño se hace y simplemente el programador debe hacerlo, esto no es cierto. La diseñadora no debe sentirse mal si su diseño es rechazado, sino que debe siempre preguntar por que. En muchos casos se trabaja en el par programador-diseñador, aunque esto no es del todo cierto. Los roles que intervienen son Diseñador, Ingeniero y programador. Se puede comparar con la construcción de un edificio. Las personas que actúan son Arquitecto, Ingeniero civil y albañil. Lo que ocurre es que para abaratar presupuestos el programador también cumple el rol de ingeniero. Un programador poco profesional puede rechazar un diseño porque no sabe hacerlo o porque puede demandar mucho tiempo en maquetar.
+![Adobe](https://raw.githubusercontent.com/pieroblunda/curso-diseno/cls/slide/adobe.jpg)
+
+La analogía de la construcción

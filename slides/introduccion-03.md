@@ -1,3 +1,8 @@
 ### Los programadores vienen de marte, las diseñadoras son de venus.
 
-Tema introductorio para conocer a los diseñadores y a las mujeres. Los programadores son hombres y las diseñadoras son mujeres. Por que? Tema evolutivo. Los hombres son malos para distinguir colores (hecho comprobado) al mismo tiempo que en la facultad de ingeniería el 90% de los alumnos son hombres. Entones, no solo tenemos que aprender a entender a los programadores, sino que tenemos que aprender a entender a los hombres!!! (risas).
+![Los programadores vienen de marte, las diseñadoras son de venus](https://raw.githubusercontent.com/pieroblunda/curso-diseno/cls/slide/img/libro.jpg)
+
+
+Ellos se ubican en el espacio. Ellas ven mas colores.
+
+[Contenido científico](http://www.nationalgeographic.es/noticias/ciencia/salud-y-cuerpo-humano/la-visin-de-los-hombres-y-las-mujeres-es-diferente)
