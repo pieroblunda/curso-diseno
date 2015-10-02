@@ -1,1 +1,3 @@
->En una revista, el diseño se hace y se acepta casi tal cual como esta, mientras que en web, interviene un programador que tiene limitaciones y el trabajo se hace para que otra persona deba leerlo y maquetarlo.
+### Libertad
+
+>En una revista, el diseñador posee más libertad, mientras que en web, interviene un programador que tiene limitaciones y debe maquetar el diseño.

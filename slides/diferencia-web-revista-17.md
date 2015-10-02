@@ -1,3 +1,3 @@
-### Usabilidad
+### íconos
 
->Iconografia - Seleccion de iconos adecuados.
+>Iconografía - Seleccionar iconos adecuados.
