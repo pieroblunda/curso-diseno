@@ -11,13 +11,13 @@ El curso tiene como objetivo introducir a un disenador o estudiante avanzado al 
 
 ### Perfil del alumno
 
-Este curso está enfocado para disenadores y alumnos de carreras afines al área de IT con poco o ningún conocimiento en Git o algún otro sistema de versionado. El curso también es muy útil para otros profesionales y perfiles quienes habitualmente redacten documentos escritos, como Profesores Universitarios, Abogados, Proyects Managers, Recursos Humanos, entre otros.
+Este curso está enfocado para disenadores y alumnos avanzados de carreras afines al diseno que quieran apliar las fronteras impuestas y comenzar a conocer un nuevo ambito de aplicacion de su trabajo.
 
 ### Detalles
 
-* Nivel: Inicial
-* Requisitos: Llevar PC para ejercicios practicos
-* Duración: 10Hs distribuidas en 4 clases de 2Hs 30min cada una.
+* Nivel: Avanzado
+* Requisitos: Ninguno.
+* Duración: 6Hs distribuidas en 3 clases de 2Hs cada una.
 
 ### Programa del curso
 
