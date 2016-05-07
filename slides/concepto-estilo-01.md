@@ -1,0 +1,1 @@
+>Ir de los general a lo particular.
